@@ -28,9 +28,8 @@ Java & Software Developer with a strong foundation in **full-stack development**
 - ☁️ **Currently exploring:** Multi-cloud deployment & auto-scaling on AWS/Azure
 - 🌱 **Also into:** NLP integration & the Gemini API
 - 💼 **Open to:** Java / Software Developer internship & full-time opportunities
-- 📍 **Based in:** Mettur, Tamil Nadu, India
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/sindhumathiannadurai/) · sindhumathiannadhurai1819@gmail.com · +91 6380066180
-
+- 📍 **Based in:** India
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/sindhumathiannadurai/) · sindhumathiannadhurai1819@gmail.com 
 ---
 
 ### 🛠️ Tech Stack
