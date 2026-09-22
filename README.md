@@ -68,7 +68,6 @@ Java & Software Developer with a strong foundation in **full-stack development**
 | **[Digital Learning Platform](https://github.com/SindhumathiAnnadurai/StudyMate)** — *Nabha Foundation* | Full-stack e-learning platform with online/offline access, video lectures, downloadable notes, an offline-sync module for low-connectivity regions, and a riddle-based quiz engine with a results dashboard. | `React.js` `Node.js` `HTML` `CSS` `MySQL` |
 | **[MealSync](https://github.com/SindhumathiAnnadurai/HostelAttendence)** — Hostel Mess Attendance Intelligence Platform | Automated attendance system replacing manual entry — cut food wastage by **20%** via real-time admin dashboards. Recognised as **Hackathon Finalist** at PRASKLA Technologies. | `HTML` `CSS` `JavaScript` |
 | **[Frontend-1](https://github.com/SindhumathiAnnadurai/Frontend-1)** | A Tamil Nadu tourism guide covering destinations from ancient temples to serene hill stations. | `HTML` `CSS` `JavaScript` |
-| **[web-projects](https://github.com/SindhumathiAnnadurai/web-projects)** | A collection of websites built while exploring front-end design. | `HTML` |
 
 ---
 
